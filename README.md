@@ -106,9 +106,9 @@ BreastCancer-ML/
 │   ├── NeuralNetworkBC
 │   └── ModelAnalysis
 ├── BreastCancer.csv
+├── README.md
 ├── model.pth
-├── requirements.txt
-└── README.md
+└── requirements.txt
 ```
 
 * **`DatasetClean.py`** : nettoyage, standardisation et sélection des variables.

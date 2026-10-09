@@ -101,10 +101,11 @@ Les valeurs de sensibilité, de spécificité et d'AUC sont calculées par le sc
 
 ```text
 BreastCancer-ML/
+├── code.py
+│   ├── DatasetClean
+│   ├── NeuralNetworkBC
+│   └── ModelAnalysis
 ├── BreastCancer.csv
-├── DatasetClean.py
-├── NeuralNetworkBC.py
-├── ModelAnalysis.py
 ├── model.pth
 ├── requirements.txt
 └── README.md
